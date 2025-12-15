@@ -1,9 +1,10 @@
-### Repo: https://github.com/a-zeb/character-counter.git
+### Repo: https://github.com/a-zeb/task-dashboard.git
 
-### Site: https://a-zeb-character-counter.netlify.app/
+### Site: https://a-zeb-task-dashboard.netlify.app/
 
 # Setup
-- Clone the repository from https://github.com/a-zeb/character-counter.git
+
+- Clone the repository from https://github.com/a-zeb/task-dashboard.git
 - From the project directory use `npm install` and `npm run build` to run the project.
 
 # Reflection
