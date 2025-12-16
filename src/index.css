@@ -8,6 +8,7 @@
 .MuiContainer-root {
   background-color: rgb(181, 199, 237);
   border-radius: 1rem;
+  padding: 1rem;
 }
 
 .MuiGrid-container {
