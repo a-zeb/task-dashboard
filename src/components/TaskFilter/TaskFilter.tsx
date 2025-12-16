@@ -1,5 +1,5 @@
 export const TaskFilter: React.FC = () => {
     return (
-        <p>this is the task filter</p>
+        <p>this would be the task search/filter</p>
     )
 }
