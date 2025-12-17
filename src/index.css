@@ -6,18 +6,7 @@
 }
 
 .MuiContainer-root {
-  background-color: rgb(181, 199, 237);
+  background-color: rgb(125, 150, 205);
   border-radius: 1rem;
   padding: 1rem;
-}
-
-.MuiGrid-container {
-  justify-content: center;
-  align-items: center;
-}
-
-.MuiBox-root {
-  justify-content: center;
-  align-items: center;
-  max-width: 75%;
 }
